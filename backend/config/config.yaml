@@ -1,0 +1,16 @@
+# Database settings
+database:
+  url: "http://localhost"
+  port: 8000
+  db: "my-dynamodb"
+  timeout: 5000
+
+# Server settings
+server:
+  host: "localhost"
+  port: ":8080"
+
+
+aws:
+  key: "key"
+  secret: "secret"
